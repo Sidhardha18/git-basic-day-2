@@ -1,3 +1,5 @@
 difference between git init and git clone
 git init creates a new, empty Git repository in your current directory.
 git clone copies an existing Git repository (including all files and history) to your local machine.
+
+modifying sample1.txt
